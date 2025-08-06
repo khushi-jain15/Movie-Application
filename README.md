@@ -194,6 +194,8 @@ If you encounter any issues or have questions:
 3. Ensure all dependencies are installed
 4. Check browser compatibility
 
+Live code : https://movie-application-virid.vercel.app/
+
 ---
 
 **Happy coding! 🎬✨** 
